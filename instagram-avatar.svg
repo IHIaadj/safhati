@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Safhati Instagram avatar</title>
+  <desc id="desc">A square social media avatar for Safhati with a stylized page logo.</desc>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="80" x2="980" y2="1030" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff6e8"/>
+      <stop offset="0.52" stop-color="#ffd7c4"/>
+      <stop offset="1" stop-color="#f17a5b"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="28" stdDeviation="30" flood-color="#102b40" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+
+  <rect width="1080" height="1080" rx="250" fill="url(#bg)"/>
+  <circle cx="868" cy="182" r="150" fill="#ffcc70" opacity="0.9"/>
+  <circle cx="148" cy="892" r="190" fill="#b9abff" opacity="0.55"/>
+  <path d="M104 267c131-100 301-126 458-66 119 45 225 41 320-8 44-22 75-47 94-69v831H104Z" fill="#102b40" opacity="0.07"/>
+
+  <g filter="url(#shadow)">
+    <rect x="265" y="190" width="550" height="620" rx="120" fill="#102b40"/>
+    <path d="M392 286h212l94 94v299c0 39-32 71-71 71H392c-39 0-71-32-71-71V357c0-39 32-71 71-71Z" fill="#fff6e8"/>
+    <path d="M604 286v104h94" fill="#ffcc70"/>
+    <path d="M410 485h196M410 563h150M410 641h174" stroke="#102b40" stroke-width="34" stroke-linecap="round"/>
+    <path d="m758 320 18 42 42 18-42 18-18 42-18-42-42-18 42-18Z" fill="#f17a5b"/>
+  </g>
+
+  <text x="540" y="928" text-anchor="middle"
+        font-family="DM Sans, Arial, sans-serif" font-size="104" font-weight="800"
+        letter-spacing="-5" fill="#102b40">Safhati</text>
+  <text x="540" y="985" text-anchor="middle"
+        font-family="DM Mono, Menlo, monospace" font-size="34" font-weight="700"
+        letter-spacing="5" fill="#102b40" opacity="0.72">SITES WEB · DZ</text>
+</svg>
